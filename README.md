@@ -1,6 +1,6 @@
 
 
-## ## <img width="350px" src="https://i.imgur.com/Aofqttm.png" />
+## <img width="550px" src="https://i.imgur.com/Aofqttm.png" />
 ## 😺 chiakiLalala
 
 Hi, I'm chiakiLalala!  I'm a visual and interaction designer with over 4 years experience working with tech startups & agencies.  I love learing new technology and skills of web, I leaving in Taiwan now. 
