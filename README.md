@@ -8,7 +8,7 @@ Hi, I'm chiakiLalala!  I'm a visual and interaction designer with over 4 years e
 I am a very passionate UIUX designer and JavaScript developer. I love learning new things every day and keeping up with the new technologies.
 I'm improving my skills with practice as much as I can.
 
-[![chiakiLalala's github stats](https://github-readme-stats.vercel.app/api?username=chiakiLalala?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![chiakiLalala's github stats](https://github-readme-stats.vercel.app/api?username=chiakiLalala&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🧠 That I know and use
